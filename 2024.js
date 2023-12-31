@@ -9,6 +9,6 @@ document.body.onclick = function() {
     video.playbackRate = 0.2;
     audio1.volume = 0.5;
     audio.volume = 0.2;
-    audio.currentTime = 215.7;
     audio.play();
+    audio.currentTime = 215.7;
 }
