@@ -10,5 +10,5 @@ document.body.onclick = function() {
     audio1.volume = 0.5;
     audio.volume = 0.2;
     audio.play();
-    audio.currentTime = 215.7;
+    audio.currentTime = 20;
 }
